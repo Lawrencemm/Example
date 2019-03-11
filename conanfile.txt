@@ -1,6 +1,2 @@
-# conanfile.txt
 [requires]
-presentation/1.0@lawrencem99/testing
-
-[generators]
-cmake_find_package
+presentation/1.0@lawrencem/testing

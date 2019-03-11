@@ -1,4 +1,3 @@
-// main.cpp
 #include <presentation/presentation.h>
 
 int main() {
